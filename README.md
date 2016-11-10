@@ -1,6 +1,6 @@
 # 황원재 (Hwang Wonjae)
 
-## Senior Developer(10ers)
+## Senior Developer (10ers)
 [![StackShare](http://img.shields.io/badge/tech-stack(click_here)-0690fa.svg?style=flat)](http://stackshare.io/iamlow/first)
 
 ### Contacts
