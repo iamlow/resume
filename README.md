@@ -1,4 +1,4 @@
-# 황원재 (Hwang Wonjae)
+# Wonjae Hwang
 Senior Developer (10ers)
 
 ## SKILL
