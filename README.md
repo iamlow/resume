@@ -10,6 +10,10 @@ Senior Developer (10ers)
   *	Electronic Document Management System
   *	USB Driver for Video Camera and Audio Mic
 
+## EDUCATION
+* **Hansung University	Seoul, South Korea**
+  * Bachelor of Computer Engineering	2006
+
 ### Contacts
 [![e-mail](https://img.shields.io/badge/e--mail-iamlow@gmail.com-orange.svg)](mailto:iamlow@gmail.com)
 [![blog](https://img.shields.io/badge/blog-iamlow.tistory.com-yellowgreen.svg)](http://iamlow.tistory.com)
