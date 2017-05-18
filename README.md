@@ -8,6 +8,8 @@ Senior Developer (10ers)
 * **Neighbor System	Seoul, South Korea** (SW Developer 2006-2016)
   *	Video Live Streaming Solution
   *	Electronic Document Management System
+  * Digital Video Transmitter
+  * Video Phone for set top box
   *	USB Driver for Video Camera and Audio Mic
 
 ## EDUCATION
