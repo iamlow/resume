@@ -6,11 +6,11 @@ Senior Developer (10ers)
 
 ## EXPERIENCE
 * **Neighbor System	Seoul, South Korea** (SW Developer 2006-2016)
-  *	Video Live Streaming Solution
-  *	Electronic Document Management System
-  * Digital Video Transmitter
-  * Video Phone for set top box
-  *	USB Driver for Video Camera and Audio Mic
+  *	Video Live Streaming Solution (2015-2016)
+  *	Electronic Document Management System (2011-2015)
+  * Digital Video Transmitter (2009-2011)
+  * Video Phone for set top box (2007-2008)
+  *	USB Driver for Video Camera and Audio Mic (2006 - 2007)
 
 ## EDUCATION
 * **Hansung University	Seoul, South Korea**
