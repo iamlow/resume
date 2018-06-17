@@ -3,15 +3,15 @@ Senior Developer (10ers)
 
 ## SKILL
 * Languages
-  * C/C++, Java, SQL
+  * C/C++, Java, SQL, Java-script
 * Frameworks	
-  * Boost, FFmpeg, ZeroMQ, Android NDK, SWIG, Dropwizard, Swagger, Guava, Lombok
+  * Boost, FFmpeg, GStreamer, ZeroMQ, Android NDK, SWIG, Dropwizard, Swagger, Guava, Lombok, Node.js, Express.js, Vue.js, Docker(Engine, Compose)
 * Concepts	
-  * OOP, TDD, Networking, Audio/Video Decoding/Encoding/Streaming, RTP, RTSP, RTMP
+  * OOP, TDD, Networking, Audio/Video Decoding/Encoding/Streaming, RTP, RTSP, RTMP, WEBRTC
 * Software	
   * Gcc, Oracle, MySQL, PostgreSQL, Vim, Atom, Eclipse, SVN, Mercurial, Git, CMake, Premake, Maven, Redmine, Slack, CppChecker, Valgrind, Docker 
 * System	
-  * Centos, Solaris, Windows
+  * Centos, Solaris, Windows, Jetson TX1/TX2
 
 [![StackShare](http://img.shields.io/badge/tech-stack(click_here)-0690fa.svg?style=flat)](http://stackshare.io/iamlow/first)
 
